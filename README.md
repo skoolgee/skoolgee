@@ -21,3 +21,4 @@ Update dependencies
 Update API endpoint
 Improve performance
 Add documentation
+Improve error handling
