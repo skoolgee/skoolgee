@@ -23,3 +23,4 @@ Improve performance
 Add documentation
 Improve error handling
 Change theme color
+Rewrite function Y
