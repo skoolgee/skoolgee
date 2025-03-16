@@ -22,3 +22,4 @@ Update API endpoint
 Improve performance
 Add documentation
 Improve error handling
+Change theme color
