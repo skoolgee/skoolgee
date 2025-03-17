@@ -20,3 +20,4 @@ Improve performance
 Update dependencies
 Update API endpoint
 Improve performance
+Add documentation
