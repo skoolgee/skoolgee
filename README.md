@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Clean up codebase
 Tweak margin and padding
 Improve performance
+Update dependencies
