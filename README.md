@@ -18,3 +18,4 @@ Clean up codebase
 Tweak margin and padding
 Improve performance
 Update dependencies
+Update API endpoint
